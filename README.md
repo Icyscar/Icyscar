@@ -95,15 +95,15 @@ A complete web application for:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Icyscar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icyscar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Icyscar&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -111,13 +111,13 @@ A complete web application for:
 
 # 📊 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME\&theme=tokyo-night)]()
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Icyscar\&theme=tokyo-night)]()
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME\&theme=algolia\&no-frame=true\&margin-w=15)
+![](https://github-profile-trophy.vercel.app/?username=Icyscar\&theme=algolia\&no-frame=true\&margin-w=15)
 
 ---
 
